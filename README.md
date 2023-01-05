@@ -6,5 +6,5 @@
 - 💬 Ask me about computer science
 - 📫 How to reach me: [Twitter](https://www.twitter.com/moorlag)
 - 😄 Pronouns: He/his
-- ❤️ Fun projects [Markdown Tutorial in Dutch](https://www.markdowntutorial.com/nl/),[BJOC, Programmeren leren in het Nederlands](www.bjoc.nl), [Hedy](https://www.hedycode.com)
+- ❤️ Fun projects [Markdown Tutorial in Dutch](https://www.markdowntutorial.com/nl/), [BJOC](www.bjoc.nl), Programmeren leren in het Nederlands.
 - ⚡ Fun fact: I share my birthday with Walt Disney!
