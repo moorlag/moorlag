@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [NOLAI](https://www.ru.nl/NOLAI)
-- 🌱 I’m currently Swedish with DuoLingo 🇸🇪
+- 🌱 I’m currently learning Swedish with DuoLingo 🇸🇪
 - 👯 I’m looking to collaborate on [teaching computer science](https://www.ieni.org)
 - 💬 Ask me about computer science
 - 📫 How to reach me: [Twitter](https://www.twitter.com/moorlag)
